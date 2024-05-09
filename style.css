@@ -209,12 +209,12 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    background-color: rgb(255, 228, 232);
+    background-color: rgb(238, 233, 234);
 }
 .box{
     height: 420px;
     width: 23%;
-    background-color: white;
+    background-color: rgb(250, 204, 244);
     padding: 20px 0px 15px;
     margin-top: 2rem;
 }
